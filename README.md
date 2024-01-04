@@ -2,11 +2,7 @@
 <h3 align="center">A passionate full-stack developer, mostly using JS.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachwahl" alt="nachwahl" /></a> </p>
-
-- 🔭 I’m currently working on [Build the Earth](https://buildtheearth.net)
-
-- 🌱 I’m currently learning **nest.js**
+- 🔭 I’m currently working on [Build the Earth Germany](https://bte-germany.de)
 
 - 💬 Ask me about **react, nodejs, javascript**
 
